@@ -9,6 +9,7 @@ using namespace std;
 typedef vector<bool> vb;
 typedef vector<int> vi;
 typedef vector<long long> vll;
+typedef pair<int, int> ii;
 
 vb criba;
 vll primos;

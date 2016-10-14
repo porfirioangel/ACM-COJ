@@ -10,6 +10,7 @@ typedef vector<bool> vb;
 typedef vector<int> vi;
 typedef vector<long long> vll;
 typedef pair<int, int> ii;
+typedef vector<ii> vii;
 
 vb criba;
 vll primos;
